@@ -76,7 +76,7 @@ Microbit
 
 ![image](https://github.com/EllinogermanikiAgogi2/EAwaterbots/assets/120021443/ef32a505-8df1-46af-a69b-a919ac476f85)
 
-Η ΠΑΡΟΥΣΙΑΣΗ ΤΗς ΛΕΙΤΟΥΡΓΙΑΣ ΤΟΥ PROJECT ΜΑΣ
+Η ΠΑΡΟΥΣΙΑΣΗ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΤΟΥ PROJECT ΜΑΣ
 
 https://www.youtube.com/watch?v=gULhJd5xMEo
 
